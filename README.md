@@ -1,0 +1,1 @@
+This application is built in react, is a list of things to do (eg: "do the laundry" ... ), and it can store the information in the localstorage. you can write, checked, and delete notes to remember things to do.
